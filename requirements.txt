@@ -1,0 +1,11 @@
+tensorflow
+librosa
+numpy
+soundfile
+scikit-learn
+streamlit
+numpy
+cv2
+os
+ultralytics
+pandas
